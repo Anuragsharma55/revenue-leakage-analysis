@@ -81,10 +81,10 @@ This analysis provides a decision-support framework enabling:
 
 ## Repository Structure
 
-data/  Source datasets
-sql/ Analytical queries
-dashboard/ Power BI report (.pbix)
-docs/  Business case documentation
+data/--Source datasets
+sql/ --Analytical queries
+dashboard/--Power BI report (.pbix)
+docs/--Business case documentation
 
 ---
 
