@@ -61,7 +61,7 @@ The objective was to determine:
 * Identification of loss-making products
 
 **Page 3 — Operational Analysis**
-
+(https://github.com/Anuragsharma55/revenue-leakage-analysis/blob/6b4289bfcb4e7f29be819df86aaac3e9f6ab7c13/Operational%20Analysis%20snapshot.png)
 * Financial loss by return reason
 * Revenue vs Cost comparison by region
 * Return KPIs (Return Rate, Total Returns)
@@ -81,8 +81,11 @@ This analysis provides a decision-support framework enabling:
 
 ## Repository Structure
 data/ → Source datasets
+
 sql/ → Analytical queries
+
 dashboard/ → Power BI report (.pbix)
+
 docs/ → Business case documentation
 
 ---
