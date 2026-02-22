@@ -50,7 +50,7 @@ The objective was to determine:
 ## Dashboard Structure
 
 **Page 1 — Executive Overview**
-(Executive Overview snapshot.png)
+(https://github.com/Anuragsharma55/revenue-leakage-analysis/blob/main/Executive%20Overview%20snapshot.png)
 * Profit trend analysis
 * Category-level profitability comparison
 * Regional performance summary
