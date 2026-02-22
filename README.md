@@ -56,7 +56,7 @@ The objective was to determine:
 * Regional performance summary
 
 **Page 2 — Pricing Analysis**
-
+(https://github.com/Anuragsharma55/revenue-leakage-analysis/blob/3983adede4d88c1e73b3ec093f561de6e937e1e5/Pricing%20Analysis%20snapshot.png)
 * Discount vs Profit relationship
 * Identification of loss-making products
 
